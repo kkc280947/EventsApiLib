@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">HelloApp</string>
+    <string name="search">Search</string>
+    <string name="search_here">Search here</string>
+    <string name="enter_word_to_search">Enter word to search</string>
+    <string name="event_expired">Event expired</string>
+    <string name="participant_coming">Participants coming:</string>
+    <string name="join">Join</string>
+    <string name="leave_group">Leave Group</string>
+    <string name="join_group">Join Group</string>
+</resources>
